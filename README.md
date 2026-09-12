@@ -238,3 +238,6 @@ This repository serves as the official landing page for Scilab. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Scilab today!**
+
+---
+**Last updated:** 2026-09-12 01:42:32 UTC
