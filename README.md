@@ -240,4 +240,4 @@ This repository serves as the official landing page for Scilab. The software is 
 **Get the most recent version of Scilab today!**
 
 ---
-**Last updated:** 2026-09-24 22:45:14 UTC
+**Last updated:** 2026-09-25 00:56:46 UTC
